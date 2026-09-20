@@ -1,6 +1,6 @@
 # Regdel
 
-VB6 working copy of `Regdel` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Project1. Output: `RegDel.exe`.
+VB6 Reg Delete CLI (`RegDel.exe` / `Regdel.vbp`): command-line helper that deletes a registry key or value (`Key,ROOT\...` or `Value,ROOT\... NAME`) under HKCU/HKCR/HKLM/HKU. Open `Regdel.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
